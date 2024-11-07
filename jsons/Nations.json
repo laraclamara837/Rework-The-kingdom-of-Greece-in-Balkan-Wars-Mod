@@ -1,38 +1,43 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Kingdom of Greece",
+		"leaderName": "Eleftherios Venizelos",
+		"adjective": ["Greek"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Greetings, Oh Prime Minister of the ancient and proud Greek nation. You lead the Greeks, a people who's stories and histories are the envy of all civilised peoples - they who were at their apex when the rest of europe scrabbled in the dirt, and they who gave ideas like Democracy, Philosophy and Medicine to the rest of the world. Elected to serve this nation in the riotous 20th century, you doubled Greek territory and reunited the territories of Macedonia, Epirus and Crete with their ancient motherland. Your reforms cemented Greece's role as a leading regional power while your diplomatic acumen guided Greece to victory in two major wars, coming out of both with new territory and respect among the worlds peoples.",
+		"startIntroPart2": "Oh exhalted Ethnarch, the people of this primordial land ache to recapture the glory of the ancients, to be blessed with the wisdom of Athens and the strength of Sparta. Can you lead them to new heights and once again demonstrate why the rest of the world looks to our shores for guidance? Can you build a civilisation that can stand the test of time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Neutrality is not politics. The kingdom of Greece declare war.",
+		"attacked": "You shall fall like so many other invaders of greece in history.",
+		"defeated": "You may think yourself an invincible conqueror, but you merely join a long list of ancient and lost tyrants who thought they could subdue Greece - this is not our first defeat, and it will not be our last. We shall return.",
+		"introduction": "Welcome to Greece, friend. You behold a land more ancient and noble than you can comprehend - I have trouble with it too, sometimes. Treat my people with respect, and don't doubt you shall be repaid tenfold!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "The prime minister of greece greets you.",
+		"neutralLetsHearIt": ["Hmm. what is it?","Is there anything you would like to say?","Please begin"],
+		"neutralNo": ["Hmm, No.","I appreciate the effort but no.","Perhaps a better offer?"],
+		"neutralYes": ["Hmm, Sure.","Of course.","You're very generous."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Hmm. You really need to pay attention on your surroundings.",
+		"hateLetsHearIt": ["Please be quick.","What is it?","The clock is ticking."],
+		"hateNo": ["Is this a joke?","How about, no.","I beg your pardon?"],
+		"hateYes": ["Finally.","Good enough.","Fine..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "And you think we'll forget about the little war you wage against us? not a chance.",
+		"tradeRequest": "The kingdom of greece is interested in some trade agreement with you.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [5, 94, 177],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Church of Greece",
+		"uniqueName": "Εpitaph to a million summers",
+		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Gain a free [Museum] [in all coastal cities]"],
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
+			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
+			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
+			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
+			"Patras","Lamia","Nafplion","Apolyton"],
+        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
+    },{
 	}
 ]
