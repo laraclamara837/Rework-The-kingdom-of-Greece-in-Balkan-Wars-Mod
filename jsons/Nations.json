@@ -31,13 +31,13 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Church of Greece",
 		"uniqueName": "Εpitaph to a million summers",
-		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Gain a free [Museum] [in all coastal cities] <starting from the [Industrial era]>","[+3 Culture] from every [{Ancient era} {World Wonder}] <starting from the [Industrial era]>","[+3 Culture] from every [{Classical era} {World Wonder}] <starting from the [Industrial era]>",""],
+		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Gain a free [Museum] [in all coastal cities] <starting from the [Industrial era]>","[+3 Culture] from every [{Ancient era} {World Wonder}] <starting from the [Industrial era]>","[+3 Culture] from every [{Classical era} {World Wonder}] <starting from the [Industrial era]>","[+2 Culture] from every [{Medieval era} {World Wonder}] <starting from the [Industrial era]>","Double quantity of [Marble] produced"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
 			"Patras","Lamia","Nafplion","Apolyton"],
-        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
+        "spyNames": ["Christopher", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Calliope", "Anthea", "Aeneas", "Leander"]
     },{
 	}
 ]
