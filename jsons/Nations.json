@@ -31,7 +31,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Church of Greece",
 		"uniqueName": "Εpitaph to a million summers",
-		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Gain a free [Museum] [in all coastal cities]"],
+		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Gain a free [Museum] [in all coastal cities] <starting from the [Industrial era]>",""],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
