@@ -31,7 +31,7 @@
 		"outerColor": [5, 94, 177],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Church of Greece",
-		"uniqueName": "Εpitaph to a million summers",
+		"uniqueName": "Εpitaph To a Million Summers",
 		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Gain a free [Museum] [in all coastal cities] <starting from the [Industrial era]>","[+3 Culture] from every [{Ancient era} {World Wonder}] <starting from the [Industrial era]>","[+3 Culture] from every [{Classical era} {World Wonder}] <starting from the [Industrial era]>","[+2 Culture] from every [{Medieval era} {World Wonder}] <starting from the [Industrial era]>","Double quantity of [Marble] produced"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
